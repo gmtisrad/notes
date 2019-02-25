@@ -1,0 +1,13 @@
+.folderlistitem {
+    display: block;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid lightslategray;
+    background-color: lightblue;
+}
+
+.is-active {
+    background-color: greenyellow;
+}

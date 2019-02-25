@@ -1,0 +1,11 @@
+header {
+    height: 10vh;
+    text-align: center;
+    line-height: 10vh;
+    background-color: darkslateblue;
+    color: cornsilk;
+}
+
+header h1 {
+    margin: 0;
+}

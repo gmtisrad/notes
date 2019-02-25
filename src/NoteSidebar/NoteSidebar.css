@@ -1,0 +1,11 @@
+.notesidebar__back {
+    width: 100%;
+    padding: 10px 0;
+    margin: 10px 0 0 0;
+}
+
+.notesidebar__folder {
+    float: right;
+    padding: 10px 0 0 0;
+    font-size: 2em;
+}
